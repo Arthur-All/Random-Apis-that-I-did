@@ -1,0 +1,29 @@
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.AssemblyInfo.cs
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\appsettings.json
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\API DO PAIZAO.exe
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\API DO PAIZAO.deps.json
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\API DO PAIZAO.runtimeconfig.json
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\API DO PAIZAO.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\API DO PAIZAO.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\ref\API DO PAIZAO.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\API DO PAIZAO.pdb
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\staticwebassets\API DO PAIZAO.StaticWebAssets.Manifest.cache
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\staticwebassets\API DO PAIZAO.StaticWebAssets.xml
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\scopedcss\bundle\API DO PAIZAO.styles.css
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.csproj.CopyComplete
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\ref\API DO PAIZAO.dll
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.pdb
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.genruntimeconfig.cache
+C:\Users\arthu\Desktop\APIS\API DO PAIZAO\API DO PAIZAO\obj\Debug\net5.0\API DO PAIZAO.csproj.AssemblyReference.cache
